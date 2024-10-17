@@ -251,9 +251,9 @@ El programa detecta fragmentos en imágenes de prueba y clasifica los fragmentos
 
 ### Matriz de conversión
 
-Fragmentos(0)  
+Alquitran(0)  
 Pellets(1)  
-Alquitran(2)
+Fragmentos(2)
 
 <img src="results\results.png" alt="Alquitrán encontrado" width="500" height="500">
 
